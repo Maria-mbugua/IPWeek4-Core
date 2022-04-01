@@ -7,6 +7,9 @@ In an effort to do this, we need to identify some areas and periods of interest 
 To work on this project, we will perform the following analysis with Python; 
 
 a) Find and deal with outliers, anomalies, and missing data within the dataset.
+
 b) Plot appropriate univariate and bivariate summaries recording our observations.
+
 c) Implement the solution by performing hypothesis testing.
+
 d) This will need to be documented when writing the report. 
